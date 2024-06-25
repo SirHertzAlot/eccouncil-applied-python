@@ -1,0 +1,390 @@
+{
+  "dataFormatVersion": "1.9.0",
+  "summary": {
+    "projectName": "eccouncil-applied-python",
+    "summaryUrl": ".boost\\eccouncil-applied-python.summary.boost-notebook",
+    "filesToAnalyze": 37,
+    "filesAnalyzed": 0,
+    "issues": [
+      "No issues found"
+    ]
+  },
+  "sectionSummary": {
+    "summary": {
+      "analysisType": "summary",
+      "status": "not-started",
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "totalCells": 0,
+      "filesAnalyzed": 0
+    }
+  },
+  "files": {
+    "Section07\\desktop.ini": {
+      "sourceRelFile": "Section07\\desktop.ini",
+      "notebookRelFile": ".boost/Section07/desktop.ini.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section07\\Chapter07.ipynb": {
+      "sourceRelFile": "Section07\\Chapter07.ipynb",
+      "notebookRelFile": ".boost/Section07/Chapter07.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section06\\desktop.ini": {
+      "sourceRelFile": "Section06\\desktop.ini",
+      "notebookRelFile": ".boost/Section06/desktop.ini.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section06\\03_Image_Processing.ipynb": {
+      "sourceRelFile": "Section06\\03_Image_Processing.ipynb",
+      "notebookRelFile": ".boost/Section06/03_Image_Processing.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section06\\02_GUI_Matplotlib.ipynb": {
+      "sourceRelFile": "Section06\\02_GUI_Matplotlib.ipynb",
+      "notebookRelFile": ".boost/Section06/02_GUI_Matplotlib.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section06\\01_Intro_to_OpenCV.ipynb": {
+      "sourceRelFile": "Section06\\01_Intro_to_OpenCV.ipynb",
+      "notebookRelFile": ".boost/Section06/01_Intro_to_OpenCV.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section06\\00_Audio_processing.ipynb": {
+      "sourceRelFile": "Section06\\00_Audio_processing.ipynb",
+      "notebookRelFile": ".boost/Section06/00_Audio_processing.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section05\\desktop.ini": {
+      "sourceRelFile": "Section05\\desktop.ini",
+      "notebookRelFile": ".boost/Section05/desktop.ini.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section05\\03_Morphological_operations.ipynb": {
+      "sourceRelFile": "Section05\\03_Morphological_operations.ipynb",
+      "notebookRelFile": ".boost/Section05/03_Morphological_operations.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section05\\02_Misc_and_measurements.ipynb": {
+      "sourceRelFile": "Section05\\02_Misc_and_measurements.ipynb",
+      "notebookRelFile": ".boost/Section05/02_Misc_and_measurements.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section05\\02_Kernel_Convolution_Filters.ipynb": {
+      "sourceRelFile": "Section05\\02_Kernel_Convolution_Filters.ipynb",
+      "notebookRelFile": ".boost/Section05/02_Kernel_Convolution_Filters.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section05\\00_Image_Processing_with_NumPy.ipynb": {
+      "sourceRelFile": "Section05\\00_Image_Processing_with_NumPy.ipynb",
+      "notebookRelFile": ".boost/Section05/00_Image_Processing_with_NumPy.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section04\\desktop.ini": {
+      "sourceRelFile": "Section04\\desktop.ini",
+      "notebookRelFile": ".boost/Section04/desktop.ini.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section04\\06_Useful_Routines.ipynb": {
+      "sourceRelFile": "Section04\\06_Useful_Routines.ipynb",
+      "notebookRelFile": ".boost/Section04/06_Useful_Routines.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section04\\05_K_Means.ipynb": {
+      "sourceRelFile": "Section04\\05_K_Means.ipynb",
+      "notebookRelFile": ".boost/Section04/05_K_Means.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section04\\04_Signal.ipynb": {
+      "sourceRelFile": "Section04\\04_Signal.ipynb",
+      "notebookRelFile": ".boost/Section04/04_Signal.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section04\\03_FFT.ipynb": {
+      "sourceRelFile": "Section04\\03_FFT.ipynb",
+      "notebookRelFile": ".boost/Section04/03_FFT.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section04\\02_Linear_algebra.ipynb": {
+      "sourceRelFile": "Section04\\02_Linear_algebra.ipynb",
+      "notebookRelFile": ".boost/Section04/02_Linear_algebra.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section04\\01_SciPy.ipynb": {
+      "sourceRelFile": "Section04\\01_SciPy.ipynb",
+      "notebookRelFile": ".boost/Section04/01_SciPy.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section03\\prog00.py": {
+      "sourceRelFile": "Section03\\prog00.py",
+      "notebookRelFile": ".boost/Section03/prog00.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section03\\desktop.ini": {
+      "sourceRelFile": "Section03\\desktop.ini",
+      "notebookRelFile": ".boost/Section03/desktop.ini.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section03\\04_More_Routines.ipynb": {
+      "sourceRelFile": "Section03\\04_More_Routines.ipynb",
+      "notebookRelFile": ".boost/Section03/04_More_Routines.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section03\\03_Array_Manipulation_Routines.ipynb": {
+      "sourceRelFile": "Section03\\03_Array_Manipulation_Routines.ipynb",
+      "notebookRelFile": ".boost/Section03/03_Array_Manipulation_Routines.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section03\\02_Array_Creation_Visualization.ipynb": {
+      "sourceRelFile": "Section03\\02_Array_Creation_Visualization.ipynb",
+      "notebookRelFile": ".boost/Section03/02_Array_Creation_Visualization.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section03\\01_Getting_Started.ipynb": {
+      "sourceRelFile": "Section03\\01_Getting_Started.ipynb",
+      "notebookRelFile": ".boost/Section03/01_Getting_Started.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section02\\desktop.ini": {
+      "sourceRelFile": "Section02\\desktop.ini",
+      "notebookRelFile": ".boost/Section02/desktop.ini.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section02\\06_Turtle.ipynb": {
+      "sourceRelFile": "Section02\\06_Turtle.ipynb",
+      "notebookRelFile": ".boost/Section02/06_Turtle.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section02\\05_Trees.ipynb": {
+      "sourceRelFile": "Section02\\05_Trees.ipynb",
+      "notebookRelFile": ".boost/Section02/05_Trees.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section02\\04_Queue.ipynb": {
+      "sourceRelFile": "Section02\\04_Queue.ipynb",
+      "notebookRelFile": ".boost/Section02/04_Queue.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section02\\03_Stack.ipynb": {
+      "sourceRelFile": "Section02\\03_Stack.ipynb",
+      "notebookRelFile": ".boost/Section02/03_Stack.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section02\\02_LinkedList.ipynb": {
+      "sourceRelFile": "Section02\\02_LinkedList.ipynb",
+      "notebookRelFile": ".boost/Section02/02_LinkedList.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section02\\01_Lists.ipynb": {
+      "sourceRelFile": "Section02\\01_Lists.ipynb",
+      "notebookRelFile": ".boost/Section02/01_Lists.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section01\\prog00.py": {
+      "sourceRelFile": "Section01\\prog00.py",
+      "notebookRelFile": ".boost/Section01/prog00.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section01\\Notebook00.ipynb": {
+      "sourceRelFile": "Section01\\Notebook00.ipynb",
+      "notebookRelFile": ".boost/Section01/Notebook00.ipynb.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "Section01\\desktop.ini": {
+      "sourceRelFile": "Section01\\desktop.ini",
+      "notebookRelFile": ".boost/Section01/desktop.ini.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "README.md": {
+      "sourceRelFile": "README.md",
+      "notebookRelFile": ".boost/README.md.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "LICENSE": {
+      "sourceRelFile": "LICENSE",
+      "notebookRelFile": ".boost/LICENSE.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    }
+  },
+  "account": {
+    "refreshed": false,
+    "enabled": false,
+    "status": "",
+    "trialRemaining": 0,
+    "usageThisMonth": 0,
+    "discountedUsage": 0,
+    "lastOperationCost": 0,
+    "batchOperationCost": 0,
+    "balanceDue": 0,
+    "couponType": "",
+    "org": "",
+    "owner": "",
+    "created": "",
+    "creditCardLinked": false
+  },
+  "uiState": {
+    "analysisState": "quiescent",
+    "activityBarState": {
+      "summaryViewState": {
+        "analysisMode": "analyze-all-mode",
+        "analysisTypesState": {
+          "security": true,
+          "compliance": true,
+          "documentation": true
+        }
+      }
+    }
+  },
+  "settings": {
+    "fileLimit": 0
+  }
+}
